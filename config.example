@@ -1,0 +1,29 @@
+{
+  "database": [
+    {
+      "name": "orbis.db"
+    }
+    ],
+  "tokens": [
+    {
+      "discord_token": "discord_token",
+      "raiderio_api_token": "raider_token",
+      "giphy_api": "giphy_token"
+    }
+  ],
+  "channels": [
+    {
+      "dm-bot-history_id": channel_id,
+      "vc-join-leave-log_id": channel_id,
+      "message-del-or-edit-log_id": channel_id,
+      "bot-message-sent-log_id": channel_id,
+      "warn-logs_id": channel_id,
+      "ticket-history_id": channel_id
+    }
+    ],
+  "categories": [
+    {
+      "ticket-category_id": category_id
+    }
+    ]
+}
