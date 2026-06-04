@@ -1,0 +1,28 @@
+{
+  "database": [
+    {
+      "name": "orbis.db"
+    }
+    ],
+  "tokens": [
+    {
+      "discord_token": "",
+      "giphy_api": ""
+    }
+  ],
+  "channels": [
+    {
+      "dm-bot-history_id": 0,
+      "vc-join-leave-log_id": 0,
+      "message-del-or-edit-log_id": 0,
+      "bot-message-sent-log_id": 0,
+      "warn-logs_id": 0,
+      "ticket-history_id": 0
+    }
+    ],
+  "categories": [
+    {
+      "ticket-category_id": 0
+    }
+    ]
+}
