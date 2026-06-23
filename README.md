@@ -89,7 +89,7 @@ The bot doesn't just respond to commands — it actively watches your server and
 ```bash
 # 1. Clone the repository
 git clone https://github.com/vynik/orbis.git
-cd YOUR_REPO
+cd orbis
 
 # 2. (Recommended) Create a virtual environment
 python -m venv venv
