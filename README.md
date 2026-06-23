@@ -160,7 +160,7 @@ If you need help or want to have a custom command made by your desire, you can d
 
 I can also help you at setting up the bot if needed to.
 
-Discord : 4zuj
+Discord : vynik_
 
 ---
 
@@ -168,6 +168,6 @@ Discord : 4zuj
 
 ### If you like this project, consider giving it a ⭐!
 
-Made with python by 4zuj.
+Made with python by vynik.
 
 </div>
